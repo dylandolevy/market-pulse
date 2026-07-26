@@ -54,7 +54,7 @@ pytest -q
 
 ## Live demo
 
-[Live demo](#) — deployment link placeholder.
+[Launch MarketPulse](https://market-pulse-a6.streamlit.app)
 
 ## License
 
